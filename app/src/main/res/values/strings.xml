@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    //TextViews
+    <string name="text_ciudad">Ciudad</string>
+    <string name="text_temperatura">0°</string>
+    <string name="text_estatus">Estatus</string>
+</resources>
